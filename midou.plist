@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://mdcd-admin.c.tudingsoft.com/app-download/midoucaipiao.ipa</string>
+                    <string>http://ht.021ndj.com/app-download/midoucaipiao.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.88ticai.app</string>
+                <string>com.mdcd</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
