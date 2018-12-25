@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://app-download.tudingsoft.com/ttdz/ttdz.ipa</string>
+                    <string>http://app-download.tudingsoft.com/saolei/saolei.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.cbs.sspk</string>
+                <string>xiyangyang.tudingsoft.com</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>上上扑克</string>
+                <string>喜洋洋</string>
             </dict>
         </dict>
     </array>
